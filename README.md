@@ -4,9 +4,9 @@
 - https://www.cursor.com/ (trial plan)
 
 ## prompt log
-> Hi Cursor, I'm lvdh, nice to meet you. I understand that you are the AI capability within Cursor. Could you briefly explain how you can help a developer like me, please?
+> ⍰ Hi Cursor, I'm lvdh, nice to meet you. I understand that you are the AI capability within Cursor. Could you briefly explain how you can help a developer like me, please?
 
-> Hello lvdh! It's nice to meet you too. I'm Claude, the AI assistant powering Cursor's AI capabilities. I'd be happy to explain how I can help developers like you.
+> ⓘ Hello lvdh! It's nice to meet you too. I'm Claude, the AI assistant powering Cursor's AI capabilities. I'd be happy to explain how I can help developers like you.
 > As an AI integrated into the Cursor editor, I can assist you with various aspects of software development:
 > 1. Code understanding and explanation: I can help you understand complex code snippets or entire files by providing explanations and breaking down functionality.
 > 2. Code generation: I can help you write new code based on your requirements or specifications.
@@ -23,11 +23,11 @@
 
 ---
 
-> Hi Cursor, I'm asking this question again, this time with only models cursor-small and gpt-4o-mini enabled.
+> ⍰ Hi Cursor, I'm asking this question again, this time with only models cursor-small and gpt-4o-mini enabled.
 >
 > I'm lvdh, nice to meet you. I understand that you are the AI capability within Cursor. Could you briefly explain how you can help a developer like me, please?
 
-> Hello lvdh! It's great to meet you. As the AI capability within Cursor, I can assist you in several ways as a developer:
+> ⓘ Hello lvdh! It's great to meet you. As the AI capability within Cursor, I can assist you in several ways as a developer:
 > 1. Code Assistance: I can help you write, edit, and debug code snippets in various programming languages.
 > 2. Code Explanation: If you have complex code, I can break it down and explain how it works.
 > 3. Refactoring Suggestions: I can suggest improvements to make your code cleaner and more efficient.
@@ -38,9 +38,9 @@
 
 ---
 
-> Thank you! In my current Cursor workspace, please generate a golang testsuite for a Unix 'wc' tool clone, then implement the application as well.
+> ⍰ Thank you! In my current Cursor workspace, please generate a golang testsuite for a Unix 'wc' tool clone, then implement the application as well.
 
-> Sure! Below is a simple implementation of a Unix wc (word count) tool clone in Go, along with a test suite to verify its functionality.
+> ⓘ Sure! Below is a simple implementation of a Unix wc (word count) tool clone in Go, along with a test suite to verify its functionality.
 > ## Go Application Implementation
 ```go
 // path/to/wc.go
